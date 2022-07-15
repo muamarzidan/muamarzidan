@@ -6,12 +6,7 @@ Hello👋 I'm Zidan👨‍💻
   I'm a intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
 </p>
 <p align="center">
-  More information, check my social media
-</p>
-
-<p align="center">
-   
-  <a href="[https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/](https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/)"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/muhamad-rafli-alfarizqi-352217220/(https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/)"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
   <a href="https://www.instagram.com/muziro_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
