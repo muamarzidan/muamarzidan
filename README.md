@@ -10,7 +10,7 @@ Hello👋 I'm Zidan👨‍💻
   <a href="https://www.instagram.com/muziro_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UC8IkZ08f0_OI8m4OE3IeDeQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-<h2>Statistic</h2>
+<h2>My Skill</h2>
 
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=html5)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=css)
