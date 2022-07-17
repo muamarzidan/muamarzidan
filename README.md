@@ -17,6 +17,7 @@ Hello👋 I'm Zidan👨‍💻
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=html5)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=css)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=PHP)
+[![C#](https://img.shields.io/badge/-C#-000?&logo=C#&logoColor=4479A1)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=C#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/muamarzidan?tab=repositories&q=&type=&language=javascript)
 
 
