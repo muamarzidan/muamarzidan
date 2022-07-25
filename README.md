@@ -3,7 +3,7 @@ Hello👋 I'm Zidan👨‍💻
 </h1>
 
 <p align="center">
-  I'm a intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
+  I'm intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
