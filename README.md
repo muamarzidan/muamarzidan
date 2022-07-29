@@ -31,7 +31,7 @@ Hello👋 I'm Zidan👨‍💻
 <details>
   <summary>My Wakatime breakdown</summary>
   <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=muamarzidan&layout=compact](https://wakatime.com/@dbcdb974-d1a4-4c90-8046-f6f370f9dee9)">
+  <img src="https://wakatime.com/@dbcdb974-d1a4-4c90-8046-f6f370f9dee9">
   </div>
 </details>
 
