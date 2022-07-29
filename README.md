@@ -15,7 +15,7 @@ Hello👋 I'm Zidan👨‍💻
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nodejs-%23FEFFFE.svg?style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodejs-%2300800.svg?style=for-the-badge&logo=node&logoColor=white"/>
   <br><br>
   <br><br>
 <p align="center">
