@@ -1,11 +1,10 @@
 <h1 align="center">
 Hello👋 I'm Zidan👨‍💻
 </h1>
-
 <p align="center">
   I'm intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
 </p>
-<br><br>
+<br>
 <div align="center">
   My age is 16 years old & prefer into Front-End & UI Design, so iam play with
   <br>
@@ -18,6 +17,7 @@ Hello👋 I'm Zidan👨‍💻
   <img src="https://img.shields.io/badge/nodejs-%2300800.svg?style=for-the-badge&logo=node&logoColor=white"/>
   <br><br>
   <br><br>
+  You can reach me on:<br><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
   <a href="https://www.instagram.com/muziro_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -28,5 +28,11 @@ Hello👋 I'm Zidan👨‍💻
 # Stats
  ![muziro github stats](https://github-readme-stats.vercel.app/api?username=muamarzidan&show_icons=true&count_private=true&theme=tokyonight)
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muamarzidan&theme=tokyonight)
+  <details>
+  <summary>My Wakatime breakdown</summary>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruqmaulana&layout=compact">
+  </div>
+</details>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muamarzidan&layout=compact&theme=tokyonight)
 
