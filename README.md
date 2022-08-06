@@ -28,11 +28,5 @@ Hello👋 I'm Zidan👨‍💻
 # Stats
  ![muziro github stats](https://github-readme-stats.vercel.app/api?username=muamarzidan&show_icons=true&count_private=true&theme=tokyonight)
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muamarzidan&theme=tokyonight)
-<details>
-  <summary>My Wakatime breakdown</summary>
-  <div align="center">
-  <img src="https://wakatime.com/photo/dbcdb974-d1a4-4c90-8046-f6f370f9dee9">
-  </div>
-</details>
 
 
