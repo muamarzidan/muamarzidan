@@ -23,7 +23,7 @@ Hello👋 I'm Zidan👨‍💻
   <a href="https://www.instagram.com/muziro_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UC8IkZ08f0_OI8m4OE3IeDeQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muamarzidan&layout=compact&theme=onedark)
 
 # Stats
  ![muziro github stats](https://github-readme-stats.vercel.app/api?username=muamarzidan&show_icons=true&count_private=true&theme=tokyonight)
