@@ -2,7 +2,7 @@
 Hello👋 I'm Zidan👨‍💻
 </h1>
 <p align="center">
-  Now I'm intern backend developer at <a href="https://logee.id/">Logee</a>
+  Now I'm intern in backend at <a href="https://logee.id/">Logee</a>
 </p>
 <div align="center">
   My age is 17 years old & prefer into Front-End & UI Design, so iam playing with
