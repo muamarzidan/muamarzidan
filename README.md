@@ -5,7 +5,7 @@ Hello👋 I'm Zidan👨‍💻
   Now I'm intern in backend at <a href="https://logee.id/">Logee</a>
 </p>
 <div align="center">
-  My age is 17 years old & prefer into Front-End & UI Design, so iam playing with
+  Now Iam 17 years old & prefer into Front-End & UI Design, so iam playing with
   <br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
