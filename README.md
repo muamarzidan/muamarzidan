@@ -1,5 +1,6 @@
 <h1 align="center">
-Hello👋 I'm Zidan👨‍💻
+Hello👋 I'm Zidan
+But you call me MuzirO
 </h1>
 <p align="center">
   Now I'm intern in backend at <a href="https://logee.id/">Logee</a>
