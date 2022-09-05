@@ -4,10 +4,9 @@ Hello👋 I'm Zidan
 <h2 align="center">
 But you guys can call me MuzirO
 </h2>
-<p align="center">
-  Now I'm intern in backend at <a href="https://logee.id/">Logee</a>
-</p>
+
 <div align="center">
+  Now I'm intern in backend at <a href="https://logee.id/">Logee</a>
   Now Iam 17 years old & prefer into Front-End & UI Design, so iam playing with
   <br><br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
