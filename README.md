@@ -23,7 +23,7 @@ But you guys can call me MuzirO
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/nodejs-%2300800.svg?style=for-the-badge&logo=node&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <br><br>
+  <br>
   You can reach me on:<br><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
