@@ -3,6 +3,7 @@ Hello👋 I'm Zidan
 </h1>
 <h2 align="center">
 But you guys can call me MuzirO
+    <br><br>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" >
 
 </h2>
@@ -12,7 +13,6 @@ But you guys can call me MuzirO
 
 <div align="center">
   Now Iam 17 years old & prefer into Front-End & UI Design, so iam playing with
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" align="right">
   <br><br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
