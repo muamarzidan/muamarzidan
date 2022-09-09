@@ -3,6 +3,8 @@ Hello👋 I'm Zidan
 </h1>
 <h2 align="center">
 But you guys can call me MuzirO
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" >
+
 </h2>
 <p align="center">
     intern in backend at <a href="https://logee.id/">Logee</a>
