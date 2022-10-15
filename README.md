@@ -2,7 +2,7 @@
 Hello👋 I'm Zidan
 </h1>
 <h2 align="center">
-But you guys can call me Muzir
+But you guys can call me MuzirO
     <br><br>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" >
 
