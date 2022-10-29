@@ -8,7 +8,7 @@ But you guys can call me MuzirO
 
 </h2>
 <p align="center">
-    Now I'm intern in Logee at BackEnd Developer <a href="https://logee.id/">Logee</a>
+    Now I'm intern in <a href="https://logee.id/">Logee</a> at BackEnd Developer 
 </p>
 
 <div align="center">
