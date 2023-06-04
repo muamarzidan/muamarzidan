@@ -7,9 +7,6 @@ But you guys can call me MuzirO
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" >
 
 </h2>
-<p align="center">
-    Now I'm intern in <a href="https://logee.id/">Logee</a> at BackEnd Developer 
-</p>
 
 <div align="center">
   Now Iam 17 years old & prefer into Front-End & UI Design, so iam playing with
