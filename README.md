@@ -1,12 +1,6 @@
 <h1 align="center">
 Hello👋 I'm Zidan
 </h1>
-<h2 align="center">
-But you guys can call me MuzirO
-    <br><br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" >
-
-</h2>
 
 <div align="center">
   Now Iam 18 years old & prefer into Front-End & UI Design, so iam playing with
