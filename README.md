@@ -19,7 +19,7 @@ Hello👋 I'm Zidan
   <img src="https://img.shields.io/badge/nodejs-%2300800.svg?style=for-the-badge&logo=node&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <br>
-  You can reach me on:<br><br>
+  You can reach me on :<br><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/muamar-zidan-tri-antoro-b64918243/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
   <a href="https://www.instagram.com/muziro_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
