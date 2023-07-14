@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm Zidan || Muziro
+Hai, I'm Zidan || Muziro
 </h1>
 
 <div align="center">
