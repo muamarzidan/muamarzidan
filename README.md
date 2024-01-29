@@ -2,7 +2,12 @@
 Halo, I'm Zidan || Muziro || Amar
 </h1>
 
-## 🌐 Socials:
+<div align="center">
+  <h2>Random Dev Quote ✍️</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+</div>
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muziro_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muamarzidan) 
 
 # 💻 Tech Stack:
@@ -17,10 +22,5 @@ Halo, I'm Zidan || Muziro || Amar
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muamarzidan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<div align="center">
-  <h1>✍️ Random Dev Quote</h1>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
