@@ -18,12 +18,9 @@ Halo, I'm Zidan || Muziro || Amar
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muamarzidan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-<p align="center">
+<div align="center">
+  <h1>✍️ Random Dev Quote</h1>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
-</p>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
