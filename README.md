@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is zidan || amar || muziro, I am a student in Informatics engineering. I have skills in the scope of web<br>development, especially front-end. I also play in back-end. I can work with discipline and on time, then I<br>can work in a team, and communicate well.
+Hello, my name is zidan || zidan || amar || muziro, I am a student in Informatics engineering. I have skills in the scope of web<br>development, especially front-end. I also play in back-end. I can work with discipline and on time, then I<br>can work in a team, and communicate well.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/muziro_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamar-zidan) 
