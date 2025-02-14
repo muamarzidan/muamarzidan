@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muamarzidan)
 # 💫 About Me:
-Hello, my name is <b> zidan </b> || <b> amar  </b> || <b> muziro </b>, I am a student in Informatics engineering. I have skills in the scope of web<br>development, especially focusing and hig in front-end. I also play in back-end. I can work with discipline and on time, then I<br>can work in a team, and communicate well.
+Hello, my name is <b> zidan </b> || <b> amar  </b>, I am a undergraduate student in Informatics engineering. I have skills in the scope of web<br>development, especially focusing and high in front-end. But iam also focusing in UI/UX Design. I can work with discipline and on time, I<br>can work in a team, and well communicate.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/muzirooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamar-zidan) [![Youtube](https://img.shields.io/badge/Youtube-%23E52D27.svg?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@muzirocode) 
