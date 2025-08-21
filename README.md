@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muamarzidan)
 # 💫 About Me:
-I am an undergraduate student in Informatics Engineering with skills in web development, specializing in front-end technologies such as React, Next, JS/TS, HTML5, CSS3, Tailwind, Bootstrap. I am also actively exploring back-end & UX/UI Design. I deliver work with discipline and punctuality, thrive in team environments, and communicate effectively to ensure project success.
+I am an undergraduate student in Informatics Engineering with focusing in web development, but iam specializing in front-end technologies such as ReactJS, React Native, Next, JS/TS, HTML5, CSS3, Tailwind, Bootstrap. I am also actively exploring back-end using NodeJS, Express, & lastly UX/UI Design. I deliver work with discipline and punctuality, thrive in team environments, and communicate effectively to ensure project success.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamarzidan) [![Youtube](https://img.shields.io/badge/Youtube-%23E52D27.svg?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@muzirocode) 
