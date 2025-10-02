@@ -5,6 +5,7 @@ I am an undergraduate student in Informatics with focusing in web development, b
 
 Love building :
 - Clean frontend architecture
+- Best Practices state management
 - Scaleable & Maintainable project
 - Flexible & Maintainable UI Design System 
 - User Experience
