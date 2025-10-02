@@ -2,6 +2,12 @@
 # 💫 About Me:
 I am an undergraduate student in Informatics with focusing in web development, but I am specializing in front-end development with React(Web/App), Next, Redux, Zustand, JS/TS, Tailwind, Bootstrap, Daisy UI, & SchadnUI, etc. I am also actively exploring back-end using NodeJS, Express, Prisma. Lastly because I am focusing in front-end development, I am also learn about UX/UI Design.
 
+Love building :
+- Clean frontend architecture
+- Scaleable & Maintainable project
+- Flexible, Maintainable, Design System
+- User Experience
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamarzidan) [![Youtube](https://img.shields.io/badge/Youtube-%23E52D27.svg?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@muzirocode) 
 
