@@ -6,7 +6,7 @@ I am an undergraduate student in Informatics with focusing in web development, b
 Love building :
 - Clean frontend architecture
 - Scaleable & Maintainable project
-- Flexible, Maintainable, Design System
+- Flexible & Maintainable UI Design System 
 - User Experience
 
 # 🌐 Socials:
