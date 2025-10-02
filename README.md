@@ -1,7 +1,9 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muamarzidan)
 # 💫 About Me:
 I am an undergraduate student in Informatics with focusing in web development, but I am specializing in front-end development with React(Web/App), Next, Redux, Zustand, JS/TS, Tailwind, Bootstrap, Daisy UI, & SchadnUI, etc. I am also actively exploring back-end using NodeJS, Express, Prisma. Lastly because I am focusing in front-end development, I am also learn about UX/UI Design.
-
+.
+.
+.
 Love building :
 - Clean frontend architecture
 - Scaleable & Maintainable project
