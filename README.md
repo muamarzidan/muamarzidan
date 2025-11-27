@@ -7,7 +7,8 @@ Love building :
 - Clean frontend architecture
 - Best Practices state management
 - Scaleable & Maintainable project
-- Flexible & Maintainable UI Design System 
+- Flexible & Maintainable UI Design System
+- Micro animation / interaction
 - User Experience
 
 # 🌐 Socials:
