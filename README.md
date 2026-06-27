@@ -1,6 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muamarzidan)
 # 💫 About Me:
-Passionate Frontend Developer with a strong foundation in Informatics and extensive freelance experience building scalable web applications. Specialized in React (Next.js) and TypeScript with a understanding of state management (Redux/Zustand) and modern styling (Tailwind/ShadcnUI). Proficient in UI/UX principles, ensuring seamless collaboration with designers and high-fidelity implementation. Experienced in full-stack environments with Node.js and Prisma, providing a holistic approach to web development.
+Passionate Fullstack Developer with a strong foundation in Informatics major and extensive freelance experience building scalable web applications. Specialized in Javascript/TypeScript with React/Next.js and understanding of state management (Context/Zustand), and modern styling (Tailwind/ShadcnUI). Addict in UI/UX principles, ensuring seamless collaboration with designers, pixel perfect, and high fidelity implementation. Experienced in fullstack environments with Node.js, Express, PHP, Laravel, Filament and Prisma, providing a holistic approach to web development
 
 
 Love building :
