@@ -1,15 +1,12 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muamarzidan)
 # 💫 About Me:
-Passionate Fullstack Developer with a strong foundation in Informatics major and extensive freelance experience building scalable web applications. Specialized in Javascript/TypeScript with React/Next.js and understanding of state management (Context/Zustand), and modern styling (Tailwind/ShadcnUI). Addict in UI/UX principles, ensuring seamless collaboration with designers, pixel perfect, and high fidelity implementation. Experienced in fullstack environments with Node.js, Express, PHP, Laravel, Filament and Prisma, providing a holistic approach to web development
+I’m a Fullstack Developer focused on building scalable, high-performance web applications and turning complex requirements into reliable digital products.
 
+I’ve worked across frontend, backend, and infrastructure, from building responsive interfaces with React, Next.js, TypeScript, and Tailwind CSS to developing APIs with Node.js, NestJS, Express, Prisma, and PostgreSQL. My experience includes building an e-learning ecosystem with a public website, student LMS, and backoffice, as well as working on logistics, healthcare, HRM, and e-commerce platforms.
 
-Love building :
-- Clean frontend architecture
-- Best Practices state management
-- Scaleable & Maintainable project
-- Flexible & Maintainable UI Design System
-- Micro animation / interaction
-- User Experience
+Beyond writing code, I care about the quality behind the product like clean and reusable architecture, performance optimization, responsive UI, API integration, testing, and maintainable code. I’ve also had the opportunity to lead a 5-member engineering team, coordinate task distribution and project timelines, and contribute to technical architecture and engineering standards.
+
+I’m continuously looking to grow as an engineer by working on challenging products, collaborating with strong teams, and building software that is not only functional, but scalable, performant, and meaningful to its users.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamarzidan) [![Youtube](https://img.shields.io/badge/Youtube-%23E52D27.svg?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@muzirocode) 
