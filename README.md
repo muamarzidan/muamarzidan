@@ -9,7 +9,6 @@ Beyond writing code, I care about the quality behind the product like clean and 
 I’m continuously looking to grow as an engineer by working on challenging products, collaborating with strong teams, and building software that is not only functional, but scalable, performant, and meaningful to its users.
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muamarzidan) [![Youtube](https://img.shields.io/badge/Youtube-%23E52D27.svg?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@muzirocode) 
 
 # 💻 Tech Stack
 
